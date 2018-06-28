@@ -1,0 +1,36 @@
+nav {
+   position: relative;
+   width: 50%;
+   /* left: 25em; */
+}
+
+.card {
+    float: left;
+    margin: 60px;
+}
+
+#skinny {
+    width: 40px;
+}
+
+.col {
+    margin-left: 8px;
+    margin-right: 8px;
+}
+
+h2 {
+    text-align: center;
+}
+
+.sticky {
+   position: sticky;
+   top: 0;
+   z-index: 1;
+}
+
+h1 {
+   text-align: center;
+   font-family: 'Great Vibes', cursive;
+   font-size: 5em;
+   margin: 20px;
+}
