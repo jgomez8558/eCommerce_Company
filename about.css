@@ -1,0 +1,25 @@
+/* .center {
+    text-align: center;
+    border: 5px solid red;
+} */
+
+h2 {
+    text-align: center;
+}
+
+.auto {
+    height: auto;
+}
+
+.sticky {
+   position: sticky;
+   top: 0;
+   z-index: 1;
+}
+
+h1 {
+   text-align: center;
+   font-family: 'Great Vibes', cursive;
+   font-size: 5em;
+   margin: 20px;
+}
